@@ -3,6 +3,7 @@
 > author: satoru_filkli
 >
 > 多源于ArchWiki及个人安装配置经验
+> 等下次有空优化一下，网站：arch-satoru.vercel.app
 
 
 
